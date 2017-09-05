@@ -1,5 +1,5 @@
 # Part 1: Understanding Chatbots
-Slide deck can be found [here](./build-a-bot-1).
+Slide deck can be found [here](./build-a-bot-1.pdf).
 
 ## Chatbots
 - SGBusUncle [Link](https://www.facebook.com/sgbusuncle/)
