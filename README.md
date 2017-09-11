@@ -9,7 +9,8 @@ If you are new to `JavaScript` or programming in general, you can start from the
 
 ### What's in this series
 1. [Understanding Chatbots](../../tree/master/1-understanding-chatbots)
-2. Work in progress..
+2. [JavaScript & Node.js](../../tree/master/2-javascript-and-node)
+3. Work in progress..
 
 ## Contributing
 Thank you for your interest in `Build-a-Bot`, we welcome your contribution in making this workshop better for all. Please contact me @martiuslim on Telegram or submit a pull request if you have any improvements for the workshop! 
