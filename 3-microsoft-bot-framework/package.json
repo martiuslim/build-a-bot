@@ -1,0 +1,16 @@
+{
+  "name": "build-a-bot-tutorial",
+  "version": "1.0.0",
+  "description": "Build-a-Bot code snippets and tutorials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martius Lim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "botbuilder": "^3.9.1",
+    "express": "^4.15.4"
+  }
+}
